@@ -1,7 +1,7 @@
 library(shiny)
 library(ggplot2)
 library(dplyr)
-library(raster)
+library(ggmap)
 
 # Load data from github
 data_url <- "https://raw.githubusercontent.com/sunray1/CaptiveRearingShiny/main/all_filtered_cleaned.csv"
