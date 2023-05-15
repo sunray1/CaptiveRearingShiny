@@ -4,8 +4,7 @@ library(dplyr)
 library(raster)
 
 # Load data from github
-#data_url <- "https://raw.githubusercontent.com/sunray1/CaptiveRearingShiny/main/all_filtered_cleaned.csv"
-data_url <- "all_filtered_cleaned.csv"
+data_url <- "https://raw.githubusercontent.com/sunray1/CaptiveRearingShiny/main/all_filtered_cleaned.csv"
 df <- read.csv(data_url)
 
 css <- "
