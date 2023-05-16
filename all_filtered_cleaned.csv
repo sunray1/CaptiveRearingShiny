@@ -236,15 +236,6 @@ occid,catalognumber,family,sciname,cleanedname,eventdate,island,locality,decimal
 154477,50824,Amastridae,Amastra,Amastra rubens,1922-01-01,Oahu,Waianae Mts.; Pukaloa,21.484783,-158.123417,911
 154403,50742,Amastridae,Amastra,Amastra rubens,1922-01-01,Oahu,Waianae Mts.; Makaha,21.51433333,-158.1705667,
 10079,93601,Amastridae,Amastra,Amastra rubens,1929-01-13,Oahu,Makaleha; Makaleha Valley,21.533095,-158.154122,3066
-10070,93592,Amastridae,Amastra,Amastra rubens,1929-01-13,Oahu,Makaleha; Makaleha Valley; 3 to 3-1/2 mi from shore,22.101339,-159.361046,1729
-10071,93593,Amastridae,Amastra,Amastra rubens,1929-01-13,Oahu,Makaleha; Makaleha Valley; 3 to 3-1/2 mi from shore,22.101339,-159.361046,1729
-10072,93594,Amastridae,Amastra,Amastra rubens,1929-01-13,Oahu,Makaleha; Makaleha Valley; 3 to 3-1/2 mi from shore,22.101339,-159.361046,1729
-10073,93595,Amastridae,Amastra,Amastra rubens,1929-01-13,Oahu,Makaleha; Makaleha Valley; 3 to 3-1/2 mi from shore,22.101339,-159.361046,1729
-10074,93596,Amastridae,Amastra,Amastra rubens,1929-01-13,Oahu,Makaleha; Makaleha Valley; 3 to 3-1/2 mi from shore,22.101339,-159.361046,1729
-10075,93597,Amastridae,Amastra,Amastra rubens,1929-01-13,Oahu,Makaleha; Makaleha Valley; 3 to 3-1/2 mi from shore,22.101339,-159.361046,1729
-10076,93598,Amastridae,Amastra,Amastra rubens,1929-01-13,Oahu,Makaleha; Makaleha Valley; 3 to 3-1/2 mi from shore,22.101339,-159.361046,1729
-10077,93599,Amastridae,Amastra,Amastra rubens,1929-01-13,Oahu,Makaleha; Makaleha Valley; 3 to 3-1/2 mi from shore,22.101339,-159.361046,1729
-10078,93600,Amastridae,Amastra,Amastra rubens,1929-01-13,Oahu,Makaleha; Makaleha Valley; 3 to 3-1/2 mi from shore,22.101339,-159.361046,1729
 11911,98170,Amastridae,Amastra,Amastra rubens,1930-04-13,Oahu,Makaha Valley; for locality see 97985-94,21.479946,-158.195145,2839
 44098,133560,Amastridae,Amastra,Amastra rubens,1931-12-03,Oahu,"Waianae Mountains; Palikea; Mokuleia, 1st valley west of Puu Pane, West branch, east slope ; Loc. = W250-",21.520993,-158.116532,301
 25456,114303,Amastridae,Amastra,Amastra rubens,1932-11-04,Oahu,Waianae Mts.; Manuwai Gulch; Loc. 9 = W220-10,21.520315,-158.126115,65
@@ -549,7 +540,6 @@ occid,catalognumber,family,sciname,cleanedname,eventdate,island,locality,decimal
 154388,50722,Amastridae,Amastra,Amastra spirizona,1922-01-01,Oahu,Punaluu,21.553488,-157.903155,3642
 154508,50855,Amastridae,Amastra,Amastra spirizona,1922-01-01,Oahu,Opaeula,21.569125,-158.050861,5340
 154373,50707,Amastridae,Amastra,Amastra spirizona,1922-01-01,Oahu,Kawailoa,21.579442,-158.032336,8584
-1156,50705,Amastridae,Amastra,Amastra spirizona,1922-01-01,Oahu,Kauaiki; high,21.966108,-159.573791,
 1227,59311,Amastridae,Amastra,Amastra spirizona,1922-08-23,Oahu,Waianae Mts.; Palehuaiki; S.W. slope,21.389138,-158.093866,1048
 1264,59348,Amastridae,Amastra,Amastra spirizona,1922-08-23,Oahu,Waianae Mts.; Palehuaiki; small restricted flat N. of Palehuaiki; head of Kaaikukai valley,21.395554,-158.097865,577
 1265,59349,Amastridae,Amastra,Amastra spirizona,1922-08-23,Oahu,Waianae Mts.; Palehuaiki; small restricted flat N. of Palehuaiki; head of Kaaikukai valley,21.395554,-158.097865,577
@@ -1211,7 +1201,6 @@ occid,catalognumber,family,sciname,cleanedname,eventdate,island,locality,decimal
 1302753,465705,Amastridae,Laminella aspera,Laminella aspera,,Maui,"Wailuku, Maui",20.89,-156.5,
 1284337,31209,Amastridae,Laminella aspera,Laminella aspera,,Maui,"West Maui, Iao Valley",20.91,-156.49,1506
 157314,56732,Achatinellidae,Laminella sanguinea,Laminella sanguinea,1913-01-01,Oahu,Helemano,21.538737,-158.018814,10427
-154347,50679,Achatinellidae,Laminella sanguinea,Laminella sanguinea,1922-01-01,Oahu,Makaha,21.295,-158.23,
 158355,59372,Achatinellidae,Laminella,Laminella sanguinea,1922-08-23,Oahu,Waianae Mts.; Kupehau (=S. Palawai); at bottom 2nd valley E. of Green peak,21.41013333,-158.0893333,
 158356,59373,Achatinellidae,Laminella,Laminella sanguinea,1922-08-23,Oahu,Waianae Mts.; Kupehau (=S. Palawai); at bottom 2nd valley E. of Green peak,21.41013333,-158.0893333,
 9758,93280,Amastridae,Laminella sanguinea,Laminella sanguinea,1929-07-04,Oahu,Opaeula; South Opaeula; On south slope of Opaeula gulch 100' [plus or minus]; above stream bed opposite a point at mauka end of large trig. stream; Loc. #1,21.569125,-158.050861,5340
